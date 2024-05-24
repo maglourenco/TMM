@@ -28,7 +28,7 @@ The evaluation process had 2 phases: (1) determining the distance at which a mor
 ![Tests 3](assets/test%204.png)
 
 
-The results of the 2 phases pf the evaluation process are summarized below. *(*minimum standard deviation reduced to 2.5)*.
+The results of the 2 phases pf the evaluation process are summarized below. *(\*minimum standard deviation reduced to 2.5)*.
 
 ![Tests results](assets/results.png)
 
